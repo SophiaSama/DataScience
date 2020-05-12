@@ -1,28 +1,28 @@
 ,Station name,Station name in Chinese,Location,Latitude,Longitude,Cluster Labels,1st Most Common Venue,2nd Most Common Venue,3rd Most Common Venue,4th Most Common Venue,5th Most Common Venue,6th Most Common Venue,7th Most Common Venue,8th Most Common Venue,9th Most Common Venue,10th Most Common Venue
-0,Jurong East,裕廊东,Jurong East,1.333115,103.7422968,0,Chinese Restaurant,Coffee Shop,Food Court,Café,Japanese Restaurant,Shopping Mall,Steakhouse,Multiplex,Bubble Tea Shop,Clothing Store
-1,Choa Chu Kang,蔡厝港,Choa Chu Kang,1.3847493,103.7445341,0,Coffee Shop,Food Court,Portuguese Restaurant,Thai Restaurant,Playground,Fast Food Restaurant,Sandwich Place,Chinese Restaurant,Food Truck,Café
-2,Woodlands,兀兰,Woodlands,1.436897,103.786216,0,Café,Coffee Shop,Japanese Restaurant,Shopping Mall,Asian Restaurant,Fast Food Restaurant,Chinese Restaurant,Indian Restaurant,Electronics Store,Clothing Store
-3,Bishan,碧山,Bishan,1.3509859,103.84825507492937,0,Coffee Shop,Food Court,Bubble Tea Shop,Cosmetics Shop,Pet Store,Café,Japanese Restaurant,Chinese Restaurant,Ice Cream Shop,Supermarket
-4,Newton,纽顿,Newton,1.31318325,103.83804024301281,0,Chinese Restaurant,Seafood Restaurant,Italian Restaurant,Hotel Bar,Hotel,Convenience Store,Grocery Store,Gym / Fitness Center,Noodle House,Thai Restaurant
-5,Dhoby Ghaut,多美歌,Museum Planning Area,1.29935345,103.84530856672068,3,Hotel,Café,Park,Japanese Restaurant,Cosmetics Shop,History Museum,Bubble Tea Shop,Theater,Hobby Shop,Karaoke Bar
-6,City Hall,政府大厦,Downtown Core,1.2930272,103.85264337981533,3,Hotel,Shopping Mall,Japanese Restaurant,Coffee Shop,French Restaurant,Steakhouse,Event Space,Concert Hall,Bookstore,Cocktail Bar
-7,Raffles Place,莱佛士坊,Downtown Core,1.2835416999999998,103.85146023266938,3,Hotel,Café,Food Court,Gym,Cocktail Bar,Coffee Shop,Sandwich Place,Salad Place,Waterfront,Shopping Mall
-8,Marina Bay,滨海湾,"Downtown Core, Straits View Planning Area",1.2755589999999999,103.85489740049655,4,Yoga Studio,Harbor / Marina,Spanish Restaurant,Plaza,Building,Gastropub,Mexican Restaurant,Government Building,Seafood Restaurant,Bus Line
-9,Tampines,淡滨尼,Tampines,1.3546528,103.9435712,0,Bakery,Café,Coffee Shop,Fast Food Restaurant,Supermarket,Gym,Sushi Restaurant,Chinese Restaurant,Asian Restaurant,Japanese Restaurant
-10,Tanah Merah,丹那美拉,Bedok,1.3272541,103.9465046,0,Noodle House,Bus Station,Indian Restaurant,Malay Restaurant,Coffee Shop,Resort,Bus Line,Food Court,Flower Shop,Steakhouse
-11,Paya Lebar,巴耶利峇,Geylang,1.31821785,103.89323462550945,0,Shopping Mall,Fast Food Restaurant,Coffee Shop,Food Court,Asian Restaurant,Supermarket,Halal Restaurant,Hotpot Restaurant,Fried Chicken Joint,Noodle House
-12,Bugis,武吉士,"Downtown Core, Rochor",1.2999532999999999,103.85527814689878,3,Bakery,Café,Hotel,Cocktail Bar,Dessert Shop,Chinese Restaurant,Japanese Restaurant,Thai Restaurant,Coffee Shop,Sandwich Place
-13,Outram Park,欧南园,"Bukit Merah, Outram",1.2806497,103.8402787,0,Café,Burger Joint,Food Court,Japanese Restaurant,Italian Restaurant,Coffee Shop,Chinese Restaurant,Australian Restaurant,Bakery,French Restaurant
-14,Buona Vista,波那维斯达,Queenstown,1.3070851,103.79057908744186,0,Japanese Restaurant,Indian Restaurant,Food Court,Chinese Restaurant,Shopping Mall,Café,Bakery,Dessert Shop,Coffee Shop,Performing Arts Venue
-15,Expo,博览,Tampines,1.3354428,103.9620852,0,Café,Coffee Shop,Chinese Restaurant,Japanese Restaurant,Fast Food Restaurant,Sporting Goods Shop,Bar,Indian Restaurant,Food Court,Hotel
-16,HarbourFront,港湾,Bukit Merah,1.2653951,103.8224032,0,Chinese Restaurant,Japanese Restaurant,Fast Food Restaurant,Toy / Game Store,Clothing Store,Multiplex,Coffee Shop,Bakery,Malay Restaurant,Noodle House
-17,Chinatown,牛车水,Outram,1.2837372,103.8437976,0,Chinese Restaurant,Food Court,Hostel,Vegetarian / Vegan Restaurant,Italian Restaurant,Spa,Café,French Restaurant,Japanese Restaurant,Beer Garden
-18,Little India,小印度,"Kallang, Rochor",1.3066476,103.8492691,1,Indian Restaurant,Vegetarian / Vegan Restaurant,Sporting Goods Shop,Hotel,Motel,Hospital,Convenience Store,Playground,BBQ Joint,Bakery
-19,Serangoon,实龙岗,Serangoon,1.3498624,103.8737292,0,Coffee Shop,Chinese Restaurant,Clothing Store,Korean Restaurant,Noodle House,Ice Cream Shop,Fast Food Restaurant,Japanese Restaurant,Scenic Lookout,Bubble Tea Shop
-20,Sengkang,盛港,Sengkang,1.3916536000000002,103.89536361089395,0,Bus Station,Fast Food Restaurant,Asian Restaurant,Food Court,Chinese Restaurant,Bakery,Coffee Shop,Sushi Restaurant,Farmers Market,Supermarket
-21,Punggol,榜鹅,Punggol,1.4052585,103.9023302,0,Fast Food Restaurant,Japanese Restaurant,Clothing Store,Supermarket,Vegetarian / Vegan Restaurant,Chinese Restaurant,Café,Seafood Restaurant,Spa,Korean Restaurant
-22,Promenade,宝门廊,Downtown Core,1.2927082,103.8611244,3,Hotel,Hotel Bar,Racetrack,Buffet,Dim Sum Restaurant,Lounge,Clothing Store,Bakery,Event Space,Hotel Pool
-23,MacPherson,麦波申,Geylang,1.3267681,103.8903019,0,BBQ Joint,Food Court,Office,Climbing Gym,Bus Station,Coffee Shop,Basketball Court,Hobby Shop,Fast Food Restaurant,Asian Restaurant
-24,Bayfront,海湾舫,Downtown Core,1.2825724,103.8597242,3,Boutique,Scenic Lookout,Garden,Hotel,Waterfront,Roof Deck,Lounge,Bridge,Accessories Store,Park
-25,Bukit Panjang,武吉班让,"Bukit Batok, Bukit Panjang,",1.378629,103.7621358,0,Fast Food Restaurant,Coffee Shop,Shopping Mall,Noodle House,Sushi Restaurant,Asian Restaurant,Café,Fried Chicken Joint,Gym,Supermarket
-26,Woodlands North,兀兰北,Woodlands,1.4486411000000001,103.78552465028201,2,Bus Stop,Gym,Taxi,Yoga Studio,Field,Fried Chicken Joint,French Restaurant,Food Truck,Food Stand,Food Service
+0,Jurong East,裕廊东,Jurong East,1.333115,103.7422968,0,Chinese Restaurant,Coffee Shop,Food Court,Café,Japanese Restaurant,Shopping Mall,Steakhouse,Korean Restaurant,Bubble Tea Shop,Clothing Store
+1,Choa Chu Kang,蔡厝港,Choa Chu Kang,1.3847493,103.7445341,0,Coffee Shop,Food Court,Italian Restaurant,Thai Restaurant,Portuguese Restaurant,Sandwich Place,Fast Food Restaurant,Chinese Restaurant,Shop & Service,Café
+2,Woodlands,兀兰,Woodlands,1.436897,103.786216,0,Café,Coffee Shop,Japanese Restaurant,Shopping Mall,Chinese Restaurant,Indian Restaurant,Electronics Store,Fast Food Restaurant,Asian Restaurant,Clothing Store
+3,Bishan,碧山,Bishan,1.3509859,103.84825507492937,0,Coffee Shop,Food Court,Bubble Tea Shop,Cosmetics Shop,Ice Cream Shop,Café,Supermarket,Chinese Restaurant,Japanese Restaurant,Dumpling Restaurant
+4,Newton,纽顿,Newton,1.31318325,103.83804024301281,3,Chinese Restaurant,Seafood Restaurant,Italian Restaurant,Hotel Bar,Thai Restaurant,Pool,Convenience Store,Food Court,Café,Noodle House
+5,Dhoby Ghaut,多美歌,Museum Planning Area,1.29935345,103.84530856672068,4,Café,Hotel,Park,Japanese Restaurant,Hobby Shop,Bubble Tea Shop,Museum,Dessert Shop,Theater,Cosmetics Shop
+6,City Hall,政府大厦,Downtown Core,1.2930272,103.85264337981533,4,Hotel,Japanese Restaurant,Shopping Mall,French Restaurant,Coffee Shop,Steakhouse,Bookstore,Café,Cocktail Bar,Concert Hall
+7,Raffles Place,莱佛士坊,Downtown Core,1.2835416999999998,103.85146023266938,4,Hotel,Coffee Shop,Food Court,Café,Gym,Salad Place,Cocktail Bar,Sandwich Place,Waterfront,Comfort Food Restaurant
+8,Marina Bay,滨海湾,"Downtown Core, Straits View Planning Area",1.2755589999999999,103.85489740049655,4,Yoga Studio,Seafood Restaurant,Bus Line,Gastropub,Government Building,Harbor / Marina,Mexican Restaurant,Spanish Restaurant,Building,Coffee Shop
+9,Tampines,淡滨尼,Tampines,1.3546528,103.9435712,0,Café,Bakery,Coffee Shop,Gym,Fast Food Restaurant,Food Court,Chinese Restaurant,Shopping Mall,Supermarket,Sushi Restaurant
+10,Tanah Merah,丹那美拉,Bedok,1.3272541,103.9465046,0,Indian Restaurant,Noodle House,Bus Line,Malay Restaurant,Bus Station,Coffee Shop,Smoke Shop,Food Court,Steakhouse,Flower Shop
+11,Paya Lebar,巴耶利峇,Geylang,1.31821785,103.89323462550945,0,Shopping Mall,Fast Food Restaurant,Coffee Shop,Asian Restaurant,Bakery,Food Court,Supermarket,Snack Place,Noodle House,Ramen Restaurant
+12,Bugis,武吉士,"Downtown Core, Rochor",1.2999532999999999,103.85527814689878,4,Bakery,Café,Hotel,Cocktail Bar,Chinese Restaurant,Dessert Shop,Coffee Shop,Japanese Restaurant,Thai Restaurant,Sushi Restaurant
+13,Outram Park,欧南园,"Bukit Merah, Outram",1.2806497,103.8402787,4,Café,Chinese Restaurant,Italian Restaurant,Japanese Restaurant,Burger Joint,Food Court,Coffee Shop,French Restaurant,Beer Garden,Cocktail Bar
+14,Buona Vista,波那维斯达,Queenstown,1.3070851,103.79057908744186,0,Japanese Restaurant,Indian Restaurant,Bakery,Café,Shopping Mall,Food Court,Performing Arts Venue,Coffee Shop,Optical Shop,Chinese Restaurant
+15,Expo,博览,Tampines,1.3354428,103.9620852,0,Café,Coffee Shop,Japanese Restaurant,Chinese Restaurant,Fast Food Restaurant,Indian Restaurant,Bar,Sandwich Place,Hotel,Sporting Goods Shop
+16,HarbourFront,港湾,Bukit Merah,1.2653951,103.8224032,0,Chinese Restaurant,Japanese Restaurant,Toy / Game Store,Fast Food Restaurant,Clothing Store,Bakery,Multiplex,Coffee Shop,Shopping Mall,Frozen Yogurt Shop
+17,Chinatown,牛车水,Outram,1.2837372,103.8437976,0,Chinese Restaurant,Food Court,Hostel,Vegetarian / Vegan Restaurant,French Restaurant,Spa,Italian Restaurant,Japanese Restaurant,Café,Restaurant
+18,Little India,小印度,"Kallang, Rochor",1.3066476,103.8492691,2,Indian Restaurant,Vegetarian / Vegan Restaurant,Sporting Goods Shop,Playground,Restaurant,Hotel,Rock Club,Hospital,BBQ Joint,Coffee Shop
+19,Serangoon,实龙岗,Serangoon,1.3498624,103.8737292,0,Coffee Shop,Chinese Restaurant,Clothing Store,Ice Cream Shop,Japanese Restaurant,Korean Restaurant,Noodle House,Fast Food Restaurant,Bubble Tea Shop,Soup Place
+20,Sengkang,盛港,Sengkang,1.3916536000000002,103.89536361089395,0,Fast Food Restaurant,Coffee Shop,Bus Station,Food Court,Bakery,Gym / Fitness Center,Bus Stop,Café,Shopping Mall,Steakhouse
+21,Punggol,榜鹅,Punggol,1.4052585,103.9023302,0,Supermarket,Discount Store,Clothing Store,Fast Food Restaurant,Chinese Restaurant,Japanese Restaurant,Café,Bus Line,Steakhouse,Market
+22,Promenade,宝门廊,Downtown Core,1.2927082,103.8611244,4,Hotel Bar,Hotel,Racetrack,Buffet,Event Space,Dim Sum Restaurant,Clothing Store,Bakery,Lounge,Italian Restaurant
+23,MacPherson,麦波申,Geylang,1.3267681,103.8903019,0,Food Court,Furniture / Home Store,Asian Restaurant,Gym,Metro Station,Thai Restaurant,Hobby Shop,Climbing Gym,BBQ Joint,Fast Food Restaurant
+24,Bayfront,海湾舫,Downtown Core,1.2825724,103.8597242,4,Boutique,Scenic Lookout,Garden,Bridge,Hotel,Waterfront,Lounge,Roof Deck,Dim Sum Restaurant,Exhibit
+25,Bukit Panjang,武吉班让,"Bukit Batok, Bukit Panjang,",1.378629,103.7621358,0,Fast Food Restaurant,Café,Coffee Shop,Shopping Mall,Noodle House,Bubble Tea Shop,Gym,Asian Restaurant,Sushi Restaurant,Restaurant
+26,Woodlands North,兀兰北,Woodlands,1.4486411000000001,103.78552465028201,1,Taxi,Yoga Studio,Garden,Furniture / Home Store,Fruit & Vegetable Store,Frozen Yogurt Shop,Fried Chicken Joint,French Restaurant,Food Court,Flower Shop
